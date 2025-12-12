@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini PDF Book Reader",
+  "description": "Upload a PDF to convert it into a digital book format with Markdown support and Excel export capabilities.",
+  "requestFramePermissions": []
+}
